@@ -1,6 +1,6 @@
 public class Crowns {
   
-  public static int printer(int crown_count, int chest_level) {
+  public static void printer(int crown_count, int chest_level) {
     
     int counter = 1;
     int total_crowns = 0;
