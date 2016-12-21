@@ -9,10 +9,7 @@ public class Main {
     
     int crown_count = scan.nextInt();
     
-    printer(crown_count);
-    
-    
-    
+    Crowns.printer(crown_count);
     
   }
   
